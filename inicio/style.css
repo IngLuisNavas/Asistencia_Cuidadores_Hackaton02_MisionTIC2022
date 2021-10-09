@@ -16,7 +16,10 @@ body {
     color: white;
     text-decoration: none;
     padding-left: 50px;
+}
 
+.navbar-logo:hover {
+   color: rgb(19, 5, 1);
 }
 
 
